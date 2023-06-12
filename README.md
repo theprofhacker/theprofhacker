@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via Telegram and ICQ
 - https://t.me/Sabri2020
-- https://icq.im/theprohacker
+- https://icq.im/theproffhacker
 
 <!---
 theprofhacker/theprofhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
