@@ -3,8 +3,8 @@
 - 🌱 I’m currently helping ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via Telegram and ICQ
-- https://t.me/Sabri2020
-- https://icq.im/theproffhacker
+- https://t.me/theproffhacker
+- https://t.me/theprofhacker
 
 <!---
 theprofhacker/theprofhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
