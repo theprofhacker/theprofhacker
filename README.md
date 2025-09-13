@@ -2,9 +2,10 @@
 - 👀 If you are interested in advanced hacking and cracking methods 
 - 🌱 I’m currently helping ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via Telegram and ICQ
-- https://t.me/theproffhacker
-- https://t.me/theprofhacker
+- 📫 Reach me via Telegram or Email
+- theprofhacker@gmail.com
+- https://t.me/social2hack
+- https://t.me/sabri2020
 
 <!---
 theprofhacker/theprofhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
