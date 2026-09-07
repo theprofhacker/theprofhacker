@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @theprofhacker
+- 👋 Hi
 - 👀 If you are interested in advanced hacking and cracking methods 
-- 🌱 I’m currently helping ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via Telegram or Email
 - theprofhacker@gmail.com
 - https://t.me/social2hack
